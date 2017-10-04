@@ -1,5 +1,0 @@
-projectKey=fr.insa.rennes:tpmaven2
-serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/fr.insa.rennes:tpmaven2
-ceTaskId=AV7mzcVDgzUlEg06J0oS
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AV7mzcVDgzUlEg06J0oS
